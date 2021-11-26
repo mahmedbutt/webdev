@@ -1,0 +1,27 @@
+.img {
+  padding: 20px 0px;
+}
+
+.divmain {
+  display: flex;
+  margin-left: 100px;
+  width: 1500px;
+  border-bottom: 1px solid #ccd1d9;
+}
+.divtext {
+  margin-left: 25px;
+}
+.title {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.level {
+  font-family: Arial, Helvetica, sans-serif;
+  width: max-content;
+  margin-left: 4px;
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+}

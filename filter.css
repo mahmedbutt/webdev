@@ -1,0 +1,25 @@
+.div_filter {
+  width: 150px;
+  margin-left: 25px;
+}
+
+.div_main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0px;
+  margin: 0px;
+}
+
+.filter {
+  background-color: #f8f8f8;
+}
+
+.para {
+  font-size: small;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+  display: flex;
+  width: 350px;
+  margin-left: 250px;
+}

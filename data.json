@@ -1,0 +1,89 @@
+[
+  {
+    "image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d2j5ihb19pt1hq.cloudfront.net/sdp_page/s12n_logos/webdesign.jpg?auto=format%2Ccompress&dpr=1&w=150&h=150&fit=fill&bg=FFF&q=25",
+    "title": "Web Design for Everybody: Basics of Web Development & Coding",
+    "Partner": "University Of Michigan",
+    "Learning_Product": "SPECIALIZATION",
+    "Level": "Beginner",
+    "Rating": "4.7"
+  },
+  {
+    "image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/83/e258e0532611e5a5072321239ff4d4/jhep-coursera-course4.png?auto=format%2Ccompress&dpr=1&w=150&h=150&fit=fill&bg=FFF&q=25",
+    "title": "HTML, CSS, and Javascript for Web Developers",
+    "Partner": "Johns Hopkins University",
+    "Learning_Product": "COURSE",
+    "Level": "Mixed",
+    "Rating": "4.8"
+  },
+  {
+    "image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/eb/cab7f07dd411e8991ff71ead974a6c/Slide1.png?auto=format%2Ccompress&dpr=1&w=150&h=150&fit=fill&bg=FFF&q=25",
+    "title": "Full-Stack Web Development with React",
+    "Partner": "The Hong Kong University of Science and Technology",
+    "Learning_Product": "SPECIALIZATION",
+    "Level": "Intermediate",
+    "Rating": "4.7"
+  },
+
+  {
+    "image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/ff/4584404c7511e7a18adb2a6ad3c009/GettyImages-185239648.jpg?auto=format%2Ccompress&dpr=1&w=150&h=150&fit=fill&bg=FFF&q=25",
+    "title": "Introduction to Web Development",
+    "Partner": "University of California, Davis",
+    "Learning_Product": "COURSE",
+    "Level": "Beginner",
+    "Rating": "4.7"
+  },
+
+  {
+    "image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/18/2aa16c328a457cb910aa933bf2cd87/Professional-Certificate-Cloud-App.jpg?auto=format%2Ccompress&dpr=1&w=150&h=150&fit=fill&bg=FFF&q=25",
+    "title": "IBM Full Stack Cloud Developer",
+    "Partner": "IBM",
+    "Learning_Product": "PROFESSIONAL CERTIFICATE",
+    "Level": "Beginner",
+    "Rating": "4.6"
+  },
+
+  {
+    "image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/c2/f9fcda619b497b9add618c5a5b1fd1/CS.png?auto=format%2Ccompress&dpr=1&w=150&h=150&q=25&fit=fill&bg=FFF",
+    "title": "Build a Full Website using WordPress",
+    "Partner": "Coursera Project Network",
+    "Learning_Product": "GUIDED PROJECT",
+    "Level": "Advanced",
+    "Rating": "4.5"
+  },
+
+  {
+    "image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d2j5ihb19pt1hq.cloudfront.net/sdp_page/s12n_logos/London_ResponsiveWebsite_Getty482541309.jpg?auto=format%2Ccompress&dpr=1&w=150&h=150&q=25&fit=fill&bg=FFF",
+    "title": "Responsive Website Development and Design",
+    "Partner": "University Of London",
+    "Learning_Product": "SPECIALIZATION",
+    "Level": "Beginner",
+    "Rating": "4.5"
+  },
+
+  {
+    "image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/a4/d69e204d3a11e7bd76e991b22caa52/HKUST_full-stack-banner.jpg?auto=format%2Ccompress&dpr=1&w=150&h=150&q=25&fit=fill&bg=FFF",
+    "title": "Full-Stack Web Development with Angular",
+    "Partner": "The Hong Kong University of Science and Technology",
+    "Learning_Product": "SPECIALIZATION",
+    "Level": "Intermediate",
+    "Rating": "4.7"
+  },
+
+  {
+    "image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/07/e471d0c09846edae89beff3665ed5b/Screenshot-from-2020-11-02-20-37-32.png?auto=format%2Ccompress&dpr=1&w=150&h=150&q=25&fit=fill&bg=FFF",
+    "title": "Create a Website Using Wordpress : Free Hosting & Sub-domain",
+    "Partner": "Coursera Project Network",
+    "Learning_Product": "GUIDED PROJECT",
+    "Level": "Beginner",
+    "Rating": "4.5"
+  },
+
+  {
+    "image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/75/32388ec64444d7a2b09297c0b59c56/1200x600_UXD.png?auto=format%2Ccompress&dpr=1&w=150&h=150&q=25&fit=fill&bg=FFF",
+    "title": "Google UX Design",
+    "Partner": "Google",
+    "Learning_Product": "PROFESSIONAL CERTIFICATE",
+    "Level": "Beginner",
+    "Rating": "4.8"
+  }
+]
